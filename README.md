@@ -77,6 +77,7 @@ IllegalArgumentException -->	Passing an invalid argument to a method.
 ✅ Use finally to close resources – Example: closing a file or database connection.
 
 # Exercises:
+**FORK this repo**
 ## Beginner - Divide and Conquer
 Create a calculator that divides two numbers entered by the user.
 
